@@ -1,7 +1,7 @@
 # EVG_JS
-"Eletroviagemgrama" é um código de visualização de dados na sua versão de Javascript. Parte do projeto Sensorium "Do mar para o rio"
+"Eletroviagemgrama" é um código de visualização de dados na sua versão de Processing JS (Javascript). Parte do projeto Sensorium "Do mar para o rio"
 
-Obra interativa de visualização sonora dos dados coletados em um passeio de barco desde a costa de Salvador até a cidade de Cachoeira, no âmbito do projeto”Sensorium: Do mar ou rio“, do grupo Ecoarte, grupo de pesquisa e experimentação artística coordenado pela professora Dra. Karla Schuch Brunet do IHAC (Instituto de Humanidades, Artes e Ciências) da Universidade Federal da Bahia.
+A obra interativa é uma visualização sonora dos dados coletados em um passeio de barco desde a costa de Salvador até a cidade de Cachoeira, no âmbito do projeto”Sensorium: Do mar ou rio“, do grupo Ecoarte, grupo de pesquisa e experimentação artística coordenado pela professora Dra. Karla Schuch Brunet do IHAC (Instituto de Humanidades, Artes e Ciências) da Universidade Federal da Bahia.
 
 Links relacionados:
 Projeto Sensorium 														http://www.sensorium.ecoarte.info/
